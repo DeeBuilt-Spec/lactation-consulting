@@ -95,7 +95,7 @@ function Hero() {
           letterSpacing: "-0.02em",
         }}
       >
-        gentle · unhurried · home
+        gentle · baby · home
       </div>
 
       {/* Layer 2 — type-only hero, overlapping the faint words. The italic
